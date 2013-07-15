@@ -1,0 +1,23 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Backups
+*~
+
+# Build directories
+build*
+
+# Project files
+.kdev4
+*.kdev4
+local_date_time
