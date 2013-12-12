@@ -20,4 +20,3 @@ build*
 # Project files
 .kdev4
 *.kdev4
-local_date_time
