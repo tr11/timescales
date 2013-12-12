@@ -14,7 +14,8 @@ before_install:
    then
       sudo apt-get install ${CXX};
    fi
- - git clone git://github.com/tr11/local_date_time.git
+ - git submodule init
+ - git submodule update
  
 before_script:
  - mkdir build
